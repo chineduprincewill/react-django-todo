@@ -2,6 +2,7 @@
   "name": "ifeanyi",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ecocms.000webhostapp.com/rd-todo",
   "engines": {
     "npm": "6.9.0",
     "node": "10.16.0"
